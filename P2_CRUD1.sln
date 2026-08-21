@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37614.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionEstudiantes.UI", "GestionEstudiantes.UI\GestionEstudiantes.UI.csproj", "{948F5484-C42A-4C91-855D-AE42F39CB27A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionEstudiantes.Core", "GestionEstudiantes.Core\GestionEstudiantes.Core.csproj", "{8B9A1CDB-3947-4FAD-96DE-0E7404829AB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{948F5484-C42A-4C91-855D-AE42F39CB27A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{948F5484-C42A-4C91-855D-AE42F39CB27A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{948F5484-C42A-4C91-855D-AE42F39CB27A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{948F5484-C42A-4C91-855D-AE42F39CB27A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B9A1CDB-3947-4FAD-96DE-0E7404829AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B9A1CDB-3947-4FAD-96DE-0E7404829AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B9A1CDB-3947-4FAD-96DE-0E7404829AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B9A1CDB-3947-4FAD-96DE-0E7404829AB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DD55C88-B1C8-487C-93BD-3FB55EC747F7}
+	EndGlobalSection
+EndGlobal
